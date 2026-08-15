@@ -26,7 +26,7 @@ Every video plays inline in the section below. Each one is me presenting my own 
 
 ## Homework 1 — PyTorch Tutorial
 
-<video src="https://github.com/user-attachments/assets/352c7caf-fd65-43c0-82b1-1be90bbbcd7d" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/3abb0cf3-ffd6-4393-87c2-9a2d7551f79c" controls width="100%"></video>
 
 ### Goal
 
@@ -82,7 +82,7 @@ between GEGLU and SwiGLU is inside the confidence intervals, so I do not claim a
 
 ## Homework 2 — Robot Control and MDPs
 
-<video src="https://github.com/user-attachments/assets/aaadcb7c-a2ba-412c-8359-0a080c6ef05d" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/a8177a1f-3885-4a7d-a3b6-5cdcf6d0f287" controls width="100%"></video>
 
 ### Goal
 
@@ -128,7 +128,7 @@ causes oscillation and how `K_D` damps it, and when a non-zero `K_I` is needed.
 
 ## Homework 3 — Imitation Learning
 
-<video src="https://github.com/user-attachments/assets/b5affbd6-88a2-45e9-94e1-cfb8384b33e1" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/9e48f809-d226-4c97-9394-589bf87cc6f0" controls width="100%"></video>
 
 ### Goal
 
@@ -182,7 +182,7 @@ teleoperation.
 
 ## Homework 4 — Reinforcement Learning
 
-<video src="https://github.com/user-attachments/assets/aa57db33-c3e8-4788-b1c8-97fc3d3b788c" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/b76d7be6-ecc3-41c1-bcd4-febdf4e59f59" controls width="100%"></video>
 
 ### Goal
 
