@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+logs/
+video/
+**egg**
+checkpoints/
+datasets/

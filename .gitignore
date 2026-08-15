@@ -1,0 +1,6 @@
+# Presentation videos: hosted as GitHub attachments, kept locally only.
+*.mp4
+*.mov
+
+# Scratch folder for re-encoded upload copies.
+upload/
